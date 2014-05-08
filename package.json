@@ -1,0 +1,23 @@
+{
+  "name": "organic-cronactivity",
+  "version": "0.0.1",
+  "description": "Provides ability to a cell for running given activity on specified by crontime format periods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/outbounder/organic-cronactivity.git"
+  },
+  "author": "Boris Filipov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/outbounder/organic-cronactivity/issues"
+  },
+  "homepage": "https://github.com/outbounder/organic-cronactivity",
+  "dependencies": {
+    "prefixobjpropertyvalues": "0.0.1",
+    "organic": "~0.1.1"
+  }
+}
